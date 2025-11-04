@@ -1,8 +1,8 @@
 # Mi hoja de vida
-**Nombre completo:** Ana Torres
-**Correo electrónico:** ana.torres@correo.com
+**Nombre completo:** Juan Diego Zapata Pulido
+**Correo electrónico:** juan.zapata-p@uniminuto.edu.co
 ## Formación académica
-- Bachiller Técnico en Informática
+- Bachiller Académico
 - Estudiante de Ingeniería de Sistemas en UNIMINUTO
 ## Habilidades
 - Conocimientos básicos en programación
