@@ -1,5 +1,3 @@
-markdown
-CopiarEditar
 # Mi hoja de vida
 **Nombre completo:** Ana Torres
 **Correo electrónico:** ana.torres@correo.com
