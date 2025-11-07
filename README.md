@@ -12,4 +12,4 @@
 - Conocimientos básicos en programación
 - Uso de herramientas colaborativas como GitHub
 ## Redes
-- [GitHub](https://github.com/juanzapatap
+- [GitHub](https://github.com/juanzapatap)
